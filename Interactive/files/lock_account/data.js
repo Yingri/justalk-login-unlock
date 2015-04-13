@@ -1,0 +1,729 @@
+﻿$axure.loadCurrentPage({
+  "url":"lock_account.html",
+  "generationDate":new Date(1428891470626.48),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"686cbed70e814c209c4d462b69506b66",
+    "type":"Axure:Page",
+    "name":"lock account",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"Case 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;10:00&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"10:00",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:59&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:59",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:58&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:58",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:57&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:57",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:57&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:57",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:56&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:56",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:55&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:55",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:54&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:54",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:53&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:53",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:52&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:52",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:51&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:51",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:50&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:50",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:49&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:49",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:48&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:48",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:47&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:47",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:46&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:46",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:45&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:45",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:44&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:44",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:43&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:43",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:42&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:42",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}},
+{
+                "action":"wait",
+                "description":"Wait 1000 ms",
+                "waitTime":1000},
+{
+                "action":"setFunction",
+                "description":"Set text on Timer equal to &quot;09:41&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetWidgetRichText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9006761055684ba393aa4129c7af5b71"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"09:41",
+                          "stos":[]},
+{
+                          "exprType":"booleanLiteral",
+                          "value":true}]}]}}]}]}},
+    "diagram":{
+      "objects":[{
+          "id":"107f97eca8d74a4da8a50ec074e5854d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00a19bd47540431bb48c47b0bdb06a65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/lock_account/u0.png"}},
+{
+          "id":"494a64f2252f4bb4836e262dc3cdcafe",
+          "label":"Rectangle",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":90,
+              "y":650},
+            "size":{
+              "width":570,
+              "height":100},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c5eb16fd613462fb59da9a0ad28c5bb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":90,
+                  "y":650},
+                "size":{
+                  "width":570,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open unlock contact us in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"unlock_contact_us.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c325fa774a954d5f91a62e2ff2100977",
+          "label":"Timer",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica', 'Helvetica'",
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "paddingTop":"0",
+            "paddingBottom":"0",
+            "location":{
+              "x":141,
+              "y":295},
+            "size":{
+              "width":97,
+              "height":73},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9006761055684ba393aa4129c7af5b71",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica', 'Helvetica'",
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "paddingTop":"0",
+                "paddingBottom":"0",
+                "location":{
+                  "x":141,
+                  "y":295},
+                "size":{
+                  "width":97,
+                  "height":73},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "107f97eca8d74a4da8a50ec074e5854d":{
+      "scriptId":"u0"},
+    "00a19bd47540431bb48c47b0bdb06a65":{
+      "scriptId":"u1"},
+    "494a64f2252f4bb4836e262dc3cdcafe":{
+      "scriptId":"u2"},
+    "0c5eb16fd613462fb59da9a0ad28c5bb":{
+      "scriptId":"u3"},
+    "c325fa774a954d5f91a62e2ff2100977":{
+      "scriptId":"u4"},
+    "9006761055684ba393aa4129c7af5b71":{
+      "scriptId":"u5"}}});

@@ -1,0 +1,209 @@
+﻿$axure.loadCurrentPage({
+  "url":"call_justalk.html",
+  "generationDate":new Date(1428891471732.47),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"38b1e094d205497980d6ec0ecb68c31a",
+    "type":"Axure:Page",
+    "name":"call justalk",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"107f97eca8d74a4da8a50ec074e5854d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00a19bd47540431bb48c47b0bdb06a65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/call_justalk/u0.png"}},
+{
+          "id":"2706b5b8735047539515d1b3aaf9afc0",
+          "label":"Rectangle",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":10,
+              "y":20},
+            "size":{
+              "width":210,
+              "height":70},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"292ee187e9464595ae062c505eac27fe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":10,
+                  "y":20},
+                "size":{
+                  "width":210,
+                  "height":70},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open aftercall validate in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"aftercall_validate.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d512c0a57cdd4ad78011be6f9e12983c",
+          "label":"Rectangle",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":290,
+              "y":560},
+            "size":{
+              "width":170,
+              "height":160},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d10bb6d2e1f42d9a02560ecf31c01fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":290,
+                  "y":560},
+                "size":{
+                  "width":170,
+                  "height":160},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open aftercall validate in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"aftercall_validate.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "107f97eca8d74a4da8a50ec074e5854d":{
+      "scriptId":"u0"},
+    "00a19bd47540431bb48c47b0bdb06a65":{
+      "scriptId":"u1"},
+    "2706b5b8735047539515d1b3aaf9afc0":{
+      "scriptId":"u2"},
+    "292ee187e9464595ae062c505eac27fe":{
+      "scriptId":"u3"},
+    "d512c0a57cdd4ad78011be6f9e12983c":{
+      "scriptId":"u4"},
+    "9d10bb6d2e1f42d9a02560ecf31c01fb":{
+      "scriptId":"u5"}}});

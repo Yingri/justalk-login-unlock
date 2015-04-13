@@ -1,0 +1,137 @@
+﻿$axure.loadCurrentPage({
+  "url":"problem_contact_us.html",
+  "generationDate":new Date(1428891471527.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"54dd88c3f416413bbc21cf795ae2c782",
+    "type":"Axure:Page",
+    "name":"problem Contact us",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"107f97eca8d74a4da8a50ec074e5854d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00a19bd47540431bb48c47b0bdb06a65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/problem_contact_us/u0.png"}},
+{
+          "id":"bcd6a99c90b649f080810ec75b1c9a50",
+          "label":"Rectangle",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":20,
+              "y":26},
+            "size":{
+              "width":190,
+              "height":60},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"069d43be5cd44f0a9d73b2a2fd4b95ee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":20,
+                  "y":26},
+                "size":{
+                  "width":190,
+                  "height":60},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open FAQ in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"faq.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "107f97eca8d74a4da8a50ec074e5854d":{
+      "scriptId":"u0"},
+    "00a19bd47540431bb48c47b0bdb06a65":{
+      "scriptId":"u1"},
+    "bcd6a99c90b649f080810ec75b1c9a50":{
+      "scriptId":"u2"},
+    "069d43be5cd44f0a9d73b2a2fd4b95ee":{
+      "scriptId":"u3"}}});

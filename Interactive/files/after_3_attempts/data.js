@@ -1,0 +1,275 @@
+﻿$axure.loadCurrentPage({
+  "url":"after_3_attempts.html",
+  "generationDate":new Date(1428891471939.29),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"477aa3b1b1404e628f3bd301efc9c0ad",
+    "type":"Axure:Page",
+    "name":"after 3 attempts",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"107f97eca8d74a4da8a50ec074e5854d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00a19bd47540431bb48c47b0bdb06a65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/after_3_attempts/u0.png"}},
+{
+          "id":"fe3db217b7904109974a7a9df7b0d8ff",
+          "label":"Rectangle",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":373,
+              "y":590},
+            "size":{
+              "width":300,
+              "height":120},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79fd1cc4949d4305ac12e214a098d4ab",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":373,
+                  "y":590},
+                "size":{
+                  "width":300,
+                  "height":120},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open FAQ in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"faq.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"140371790a0546e4a3dab6b2f4f8e21b",
+          "label":"Rectangle",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":90,
+              "y":590},
+            "size":{
+              "width":280,
+              "height":120},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e33eeaa4dd9d45c0a8754ebdd868b326",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":90,
+                  "y":590},
+                "size":{
+                  "width":280,
+                  "height":120},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open aftercall validate in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"aftercall_validate.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bf1cb3df5e9640179e7e8c5b3e1a5ef0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
+            "fontSize":"20px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFCC00,
+              "opacity":1},
+            "location":{
+              "x":302,
+              "y":979},
+            "size":{
+              "width":121,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fdc8be16148c4741acfc68930739ecf0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
+                "fontSize":"20px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFCC00,
+                  "opacity":1},
+                "location":{
+                  "x":302,
+                  "y":979},
+                "size":{
+                  "width":121,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open lock account in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"lock_account.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "107f97eca8d74a4da8a50ec074e5854d":{
+      "scriptId":"u0"},
+    "00a19bd47540431bb48c47b0bdb06a65":{
+      "scriptId":"u1"},
+    "fe3db217b7904109974a7a9df7b0d8ff":{
+      "scriptId":"u2"},
+    "79fd1cc4949d4305ac12e214a098d4ab":{
+      "scriptId":"u3"},
+    "140371790a0546e4a3dab6b2f4f8e21b":{
+      "scriptId":"u4"},
+    "e33eeaa4dd9d45c0a8754ebdd868b326":{
+      "scriptId":"u5"},
+    "bf1cb3df5e9640179e7e8c5b3e1a5ef0":{
+      "scriptId":"u6"},
+    "fdc8be16148c4741acfc68930739ecf0":{
+      "scriptId":"u7"}}});
